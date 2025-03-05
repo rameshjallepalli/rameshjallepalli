@@ -29,6 +29,10 @@ Hello, we're excited to introduce *Treasure Hunt*, an interactive mobile applica
 📌 Design Tools: Figma 
 📌 Version Control: Git, GitHub
 
+## Education Details
+- Graduation: B.tech
+- Rajamahendri Institute of Engineering and technology
+
 ## 🚀 Projects  
 - Treasure hunt – Full-fledged gaming UI inspired
 - Yoga app – Flutter-based Movies Streaming app with Firebase backend  
